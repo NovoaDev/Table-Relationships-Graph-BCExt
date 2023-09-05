@@ -1,6 +1,26 @@
 {
-  "country": "us",
+  "country": "es",
+  "environments": [
+    "TESTING",
+    "PRODUCTION (Production)"
+  ],
+  "TESTING_AuthContextSecretName": "DEVELOPMENT_AUTHCONTEXT",
+  "PRODUCTION_AuthContextSecretName": "DEVELOPMENT_AUTHCONTEXT",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "repoVersion": "4.10",
+  "doNotRunBCPTTests": true,
+  "doNotSignApps": true,
+  "enableCodeCop": true,
+  "enableUICop": true,
+  "enablePerTenantExtensionCop": true,
+  "enableAppSourceCop": true,
+  "AppSourceCopMandatoryAffixes": [
+    "_ANJ"
+  ],
+  "customCodeCops": [
+    ".github/BusinessCentral.LinterCop.current.dll"
+  ],
+  "rulesetFile": "Table-Relationships-Graph/.vscode/ruleset.json"
 }

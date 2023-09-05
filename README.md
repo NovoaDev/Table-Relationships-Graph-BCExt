@@ -1,10 +1,11 @@
-# AL-Go Per Tenant Extension Template
-This template repository can be used for managing AppSource Apps for Business Central.
+# Table Relationships Graph
+Small tool designed to create a graphic that shows the relationships between tables in a quick way, with the purpose of giving us an idea of the schema of an extension. It also allows to preview and download the generated text to easily add it to the client's documentation in Markdown format. <br>
+Same dog as [Dependency Graph](https://github.com/NovoaDev/Dependency-Graph-BCExt)  but with a different collar. <br> <br>
+**Usage video:** <br> 
+Video Link<br> <br>
 
-Please go to https://aka.ms/AL-Go to learn more.
+**PS:** <br>
+Although there are numerous more advanced tools available, this one has been created for the simple purpose of practice, but it could prove useful for other users.
 
-## Contributing
-
-Please read [this](https://github.com/microsoft/AL-Go/blob/main/Scenarios/Contribute.md) description on how to contribute to AL-Go for GitHub.
-
-We do not accept Pull Requests on the template repository directly.
+## Usage
+Gif

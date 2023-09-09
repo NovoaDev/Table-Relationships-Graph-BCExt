@@ -1,8 +1,11 @@
 {
-    "folders": [
-        {
-            "path": ".AL-Go"
-        }
-    ],
-    "settings": {}
+  "folders": [
+    {
+      "path": "Table-Relationships-Graph"
+    },
+    {
+      "path": ".AL-Go"
+    }
+  ],
+  "settings": {}
 }

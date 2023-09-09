@@ -3,13 +3,14 @@
   "name": "Table-Relationships-Graph",
   "publisher": "ANJ",
   "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
+  "brief": "Application to generate the relationship tree",
+  "description": "Application to generate the tree of relationships between tables",
+  "privacyStatement": "https://github.com/NovoaDev/Table-Relationships-Graph-BCExt",
+  "EULA": "https://github.com/NovoaDev/Table-Relationships-Graph-BCExt",
+  "help": "https://github.com/NovoaDev/Table-Relationships-Graph-BCExt",
+  "url": "https://github.com/NovoaDev/Table-Relationships-Graph-BCExt",
+  "logo": "res/logo.png",
+  "contextSensitiveHelpUrl": "https://github.com/NovoaDev/Table-Relationships-Graph-BCExt",
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
@@ -21,11 +22,13 @@
     }
   ],
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith",
+    "TranslationFile"
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": "11.0"
 }

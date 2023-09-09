@@ -4,6 +4,9 @@
       "path": "Table-Relationships-Graph"
     },
     {
+      "path": "Table-Relationships-Graph.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],

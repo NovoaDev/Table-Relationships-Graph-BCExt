@@ -15,7 +15,7 @@
     "CRS.OnSaveAlFileAction": "DoNothing",
     "CRS.RenameWithGit": true,
     "editor.formatOnSave": true,
-    "CRS.ObjectNameSuffix": "_ANJ",
+    "CRS.ObjectNameSuffix": "TR_ANJ",
     "rest-client.rememberCookiesForSubsequentRequests": false,
     "editor.codeActionsOnSave": {
         "source.fixAll.al": true

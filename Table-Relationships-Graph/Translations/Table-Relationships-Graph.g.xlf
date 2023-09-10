@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Table-Relationships-Graph">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1570002379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Relationships Graph</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TableRelationshipsGraphTR_ANJ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570002379 - Field 3715571876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TableRelationshipsGraphTR_ANJ - Field DateLastGeneration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570002379 - Field 694705573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Geometric Figure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TableRelationshipsGraphTR_ANJ - Field GeometricFigure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570002379 - Field 1113875961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TableRelationshipsGraphTR_ANJ - Field Markdown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570002379 - Field 2129076432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mermaid Content Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TableRelationshipsGraphTR_ANJ - Field MarkdownMermaid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570002379 - Field 2333076789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TableRelationshipsGraphTR_ANJ - Field PrimaryKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1570002379 - Field 891883075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TableRelationshipsGraphTR_ANJ - Field TimeLastGeneration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3066464942 - NamedType 48672636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1((%2))</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CircleIMPTR_ANJ - NamedType FigureLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1024401184 - NamedType 48672636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1{%2}</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RhombusIMPTR_ANJ - NamedType FigureLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2019641781 - NamedType 48672636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1(%2)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RoundRectangleIMPTR_ANJ - NamedType FigureLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3515451996 - NamedType 48672636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1[%2]</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SquareRectangleIMPTR_ANJ - NamedType FigureLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1570002379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Relationships Graph</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TableRelationshipsGraphTR_ANJ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570002379 - Control 1769173142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App shapes inside the diagram</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TableRelationshipsGraphTR_ANJ - Control Figure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570002379 - Control 694705573 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Scope PTE Figure field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TableRelationshipsGraphTR_ANJ - Control GeometricFigure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1570002379 - Control 2902463168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last time it was generated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TableRelationshipsGraphTR_ANJ - Control LastGeneration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570002379 - Control 1061736343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tables to customize the graph</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TableRelationshipsGraphTR_ANJ - Control Tables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570002379 - Control 3715571876 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Last Generation field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TableRelationshipsGraphTR_ANJ - Control DateLastGeneration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1570002379 - Control 891883075 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Time Last Generation field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TableRelationshipsGraphTR_ANJ - Control TimeLastGeneration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 1392711073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Geometric Figure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeometricFigureTR_ANJ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1392711073 - EnumValue 13936446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Circle</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeometricFigureTR_ANJ - EnumValue Circle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1392711073 - EnumValue 1105944624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rhombus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeometricFigureTR_ANJ - EnumValue Rhombus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1392711073 - EnumValue 3932416381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Round Rectangle</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeometricFigureTR_ANJ - EnumValue RoundRectangle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1392711073 - EnumValue 3699382460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Square/Rectangle</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeometricFigureTR_ANJ - EnumValue SquareRectangle - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
